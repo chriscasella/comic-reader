@@ -4,10 +4,10 @@
 
 ##### Comic-Server Endpoints
 
-| Endpoint(s) |  
-| ----------- |
-| /comic/:id/pages | 
-| /comic/:id/:filename |
+| Endpoint(s) 			| Description |
+| ----------- 			| ------------ |
+| /comic/:id/pages 		| Retrieve an array of page (file) names belonging to the comic. | 
+| /comic/:id/:filename 	| Retrieve the individual page as an image |
 
 > There's currently only one Comic ID - 1
 
